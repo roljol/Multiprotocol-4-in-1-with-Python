@@ -13,6 +13,9 @@ The GUI is not really pretty because I chose Windows-Linux compatibility in
 using a tool called Tkinter but that's fine!
 
 
+
+
+****** FRENCH ******
 Parameter Pascal Langer 4 in 1 multi-protocol module via a graphical interface
 
 Bonjour utilisateurs du module multi-protocol 4 en 1.
@@ -25,3 +28,14 @@ Il fonctionne sous Windows (XP et plus) et Linux.
 L'interface graphique n'est pas véritablement jolie parce que j'ai choisi la compatibilité Windows-Linux en 
 utilisant un outil appelé Tkinter mais ça va !
 
+Installation :
+sous Windows, téléchargez dist.zip.
+Placez le dans un dossier appelé par exemple c:\MUI
+Décompressez le. Lancez MUI.exe.
+Aucune autre opération n'est nécessaire mais si ça ne marche pas, installer Python (de préférence version 2.7) 
+puis TCL si demandé.
+( TCL est liè aux outils graphiques Tkinter permettant la compatibilité Windows-Linux-(Mac OS) )
+Après avoir lancé MUI.exe vous devez en premier lieu renseigner le chemin permettant l'accès aux 
+fichiers .INO, .H etc.. créés par Pascal Langer. Ce chemin doit normalement aboutir 
+sur "DIY-Multiprotocol-TX-Module-master".
+Vous pouvez maintenant commencer le paramétrage du module 4 en 1.
